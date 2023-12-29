@@ -37,7 +37,7 @@ async def start(update: Update, context: CallbackContext) -> None:
         ***Heyyyy...***
 
 ***➠ ʜᴇʏ {username}
-➠ ɪᴛ's ᴍᴇ {bot_username}
+➠ ɪᴛ's ᴍᴇ @Guess_Your_Waifu_Bot
  ──────────────────────
 ๏ I ᴀᴍ ᴀ ᴡᴀɪғᴜ ɢᴜᴇss ʙᴏᴛ . Aᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘs ɪ ᴡɪʟʟ sᴇɴᴅ ʀᴀɴᴅᴏᴍʟʏ ᴡᴀɪғᴜs ᴀғᴛᴇʀ ᴇᴠᴇʀʏ 100 ᴍᴇssᴀɢᴇs ɪɴ ɢʀᴏᴜᴘ .
 ──────────────────────
