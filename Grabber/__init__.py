@@ -16,18 +16,18 @@ logging.getLogger('httpx').setLevel(logging.WARNING)
 logging.getLogger("pyrate_limiter").setLevel(logging.ERROR)
 LOGGER = logging.getLogger(__name__)
 
-OWNER_ID = 6691393517
-sudo_users = ["6691393517", "6691393517"]
-GROUP_ID = -1001802990747
-TOKEN = "6576720076:AATBvGaPhqWKrSayoXnIL0YtG18"
-mongo_url = "mongodb+srv://te3:te23@cluster0.ysbpgcp.mongodb.net/?retryWrites=true&w=majority"
-PHOTO_URL = ["https://telegra.ph/file/72ea883532b722f405059.jpg", "https://telegra.ph/file/72ea883532b722f405059.jpg"]
-SUPPORT_CHAT = "HEROKUFREECC"
-UPDATE_CHAT = "HEROKUFREECC"
-BOT_USERNAME = "AnzooBot"
-CHARA_CHANNEL_ID = -1001802990747
-api_id = 6435225
-api_hash = "4e984ea35f854762dcde906dce426c2d"
+OWNER_ID = 5830021826
+sudo_users = ["2131967391", "6944102170"]
+GROUP_ID = -1002062173686
+TOKEN = "6877113780:AAFI8DuzehEhDnsVxGEcG2IT9CCO-xhhM9s"
+mongo_url = "mongodb+srv://DevJangra:DevJangra@devdevloper.bavdfeu.mongodb.net/?retryWrites=true&w=majority"
+PHOTO_URL = ["https://telegra.ph/file/fc1212a5ca847743fb11b.jpg"]
+SUPPORT_CHAT = "Alpha_Bots_Support"
+UPDATE_CHAT = "Alpha_Bots_Updates"
+BOT_USERNAME = "Guss_Your_Waifu_Bot"
+CHARA_CHANNEL_ID = -1002062173686
+api_id = 20705864
+api_hash = "815880df973e10acfa73f1a12b74572b"
 
 
 application = Application.builder().token(TOKEN).build()
